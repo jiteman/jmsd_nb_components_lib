@@ -4,7 +4,6 @@ project( jmsd_nb_components_lib C CXX )
 
 
 include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-header.cmake )
-include( ${JMSD_CMAKE_SETTINGS_PATH}/macroses/macroses.cmake )
 
 
 ## include dependencies
